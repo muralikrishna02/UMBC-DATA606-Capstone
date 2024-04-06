@@ -55,7 +55,7 @@ def display_movies(movie_titles, ncols=3):
 # Load the dataset
 @st.cache
 def load_data():
-    return pd.read_csv('movie_data.csv')
+    return pd.read_csv('app/movie_data.csv')
 
 # Content-Based Filtering
 def content_based_recommendations(mv_title, mv_data, rec_n=6):
