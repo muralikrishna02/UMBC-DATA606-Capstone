@@ -5,8 +5,8 @@
 - **Author:** Murali krishna Avula
 - **GitHub:** https://github.com/muralikrishna02
 - **LinkedIn:** https://linkedin.com/in/murali-krishna-avula
-- **PowerPoint Presentation:** 
-- **YouTube Video:** 
+- **PowerPoint Presentation:** https://docs.google.com/presentation/d/1Osr02uvQy2kPjhNljgcAzCqrqIP7bdX1/edit?usp=drive_link&ouid=109572524429853324982&rtpof=true&sd=true
+- **YouTube Video:** https://drive.google.com/drive/folders/11TEXwy89I5ZoEqADe48AeUM2r1x0h7nh
 
 # 2. Background
 
