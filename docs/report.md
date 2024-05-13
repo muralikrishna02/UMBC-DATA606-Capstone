@@ -6,7 +6,7 @@
 - **GitHub:** https://github.com/muralikrishna02
 - **LinkedIn:** https://linkedin.com/in/murali-krishna-avula
 - **PowerPoint Presentation:** https://docs.google.com/presentation/d/1Osr02uvQy2kPjhNljgcAzCqrqIP7bdX1/edit?usp=drive_link&ouid=109572524429853324982&rtpof=true&sd=true
-- **YouTube Video:** https://drive.google.com/drive/folders/11TEXwy89I5ZoEqADe48AeUM2r1x0h7nh
+- **YouTube Video:** https://www.youtube.com/watch?v=7popaYxWZaY
 
 # 2. Background
 
@@ -51,6 +51,15 @@ With the increasing popularity of streaming platforms, such systems play a cruci
   - Popularity
   - Release Date
   - Production Companies
+
+
+# EDA 
+
+| [Top 10 Most Popular Movies] | [Frequency of Genres] |
+|------------------------------|-----------------------|
+| This bar plot depicts the popularity of the top 10 movies based on their popularity scores. It provides a visual representation of the most popular movies in the dataset. | This bar plot illustrates the frequency of different genres in the dataset. It provides insights into the distribution of genres across movies, helping to understand the diversity of genres present. |
+| <img width="337" alt="image" src="https://github.com/muralikrishna02/UMBC-DATA606-Capstone/assets/37668819/680117e4-bf76-4835-9b78-170770949740"> | <img width="337" alt="image" src="https://github.com/muralikrishna02/UMBC-DATA606-Capstone/assets/37668819/88bb9f80-0999-4513-8dd9-23c97bf35f90"> |
+
 
 
 # Model Training
