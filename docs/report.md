@@ -7,6 +7,7 @@
 - **LinkedIn:** https://linkedin.com/in/murali-krishna-avula
 - **PowerPoint Presentation:** https://docs.google.com/presentation/d/1Osr02uvQy2kPjhNljgcAzCqrqIP7bdX1/edit?usp=drive_link&ouid=109572524429853324982&rtpof=true&sd=true
 - **YouTube Video:** https://www.youtube.com/watch?v=7popaYxWZaY
+- **Streamliapp:** (https://movierecommendationsystemapp.streamlit.app/)
 
 # 2. Background
 
